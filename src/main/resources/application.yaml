@@ -1,0 +1,10 @@
+camunda.bpm:
+  admin-user:
+    id: sanitas
+    password: sanitas
+    firstName: David
+  filter:
+    create: All tasks
+
+kafka:
+  topic: test-topic
